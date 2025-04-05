@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ikran Nor</h1>
-<h3  A passionate Data & Business Analyst</h3>
+<h3 align="center">  A passionate Data & Business Analyst</h3>
 
 🎓 **Background in Economics with a strong analytical foundation**   
  📘 **Completed the Google Data Analytics Professional Certificate**   
