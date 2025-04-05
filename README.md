@@ -14,7 +14,7 @@
   ✔ ***SQL & Database Management***
 
 🧰 **Tools & Technologies**:  
-✔ ***(Power BI(DAX, Power Query)***  
+✔ ***Power BI(DAX, Power Query)***  
  ✔ ***SQL Server***,  ***MySQL***  
  ✔ ***Microsoft Excel (Advanced)***  
 
