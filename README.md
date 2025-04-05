@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ikran Nor</h1>
 <h3 align="center">A passionate Data & Business Analyst</h3>
 
-🎓 **Background in Economics with a strong analytical foundation**
-
- 📘 **Completed the Google Data Analytics Professional Certificate**
-
- 📊 **Earned the Microsoft Power BI Data Analyst Professional Certificate**
-
- 💼 **Participated in the PwC Power BI Virtual Internship (Forage)**
+🎓 **Background in Economics with a strong analytical foundation**   
+ 📘 **Completed the Google Data Analytics Professional Certificate**   
+ 📊 **Earned the Microsoft Power BI Data Analyst Professional Certificate**   
+ 💼 **Participated in the PwC Power BI Virtual Internship (Forage)**  
 
 🔹 **Core Skills & Focus Areas**: 
-
   ✔ ***Data Collection, Cleaning & Preparation***    
   ✔ ***Exploratory Data Analysis (EDA) & Statistical Insights***     
   ✔ ***Business Intelligence & Reporting***     
