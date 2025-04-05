@@ -6,7 +6,7 @@
  📊 **Earned the Microsoft Power BI Data Analyst Professional Certificate**   
  💼 **Participated in the PwC Power BI Virtual Internship (Forage)**  
 
-🔹 **Core Skills & Focus Areas**: 
+🔹 **Core Skills & Focus Areas**:   
   ✔ ***Data Collection, Cleaning & Preparation***    
   ✔ ***Exploratory Data Analysis (EDA) & Statistical Insights***     
   ✔ ***Business Intelligence & Reporting***     
