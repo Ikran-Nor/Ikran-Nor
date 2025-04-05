@@ -5,6 +5,8 @@
  📘 **Completed the Google Data Analytics Professional Certificate**   
  📊 **Earned the Microsoft Power BI Data Analyst Professional Certificate**   
  💼 **Participated in the PwC Power BI Virtual Internship (Forage)**  
+🔍 ***Passionate about transforming data into meaningful business insights***     
+🌱 ***Lifelong learner, continuously exploring the evolving field of data analytics***    
 
 ## 🔹 Core Skills & Focus Areas:   
   ✔ ***Data Collection, Cleaning & Preparation***    
@@ -17,10 +19,6 @@
 ✔ ***Power BI(DAX, Power Query)***  
  ✔ ***SQL Server***,  ***MySQL***  
  ✔ ***Microsoft Excel (Advanced)***  
-
-🔍 ***Passionate about transforming data into meaningful business insights***
-
-🌱 ***Lifelong learner, continuously exploring the evolving field of data analytics***
 
 
 # 💻 Tech Stack:  
