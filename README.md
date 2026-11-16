@@ -18,7 +18,8 @@
 ## 🧰 Tools & Technologies:  
 ✔ ***Power BI(DAX, Power Query)***  
  ✔ ***SQL Server***,  ***MySQL***  
- ✔ ***Microsoft Excel (Advanced)***  
+ ✔ ***Microsoft Excel (Advanced)*** 
+ ✔ ***Python***
 
 
 ## 💻 Tech Stack:  
